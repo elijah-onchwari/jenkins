@@ -1,0 +1,93 @@
+brew install hashicorp/tap/terraform
+ 9333  arm brew install hashicorp/tap/terraform
+ 9339  mkdir terraform
+ 9340  cd terraform
+ 9343  arm  brew upgrade hashicorp/tap/terraform
+ 9344  terraform --help
+ 9345  terraform -help plan
+ 9347  terraform -install-autocomplete
+ 9353  cd Desktop/terraform
+ 9424  terraform init
+ 9426  terraform init
+ 9427  terraform fmt
+ 9428  terraform fmt --diff
+ 9429  terraform validate
+ 9430  terraform fmt --diff
+ 9431  terraform validate
+ 9432  terraform init
+ 9433  terraform fmt --diff
+ 9434  terraform validate
+ 9435  terraform plan
+ 9436  terraform validate
+ 9437  terraform fmt --diff
+ 9438  terraform init
+ 9439  terraform plan
+ 9440  terraform apply
+ 9441  terraform show
+ 9442  terraform destroy
+ 9443  terraform state list
+ 9444  terraform init
+ 9445  terraform state list
+ 9446  terraform show
+ 9447  terraform fmt --diff
+ 9448  terraform apply
+ 9449  terraform destroy
+ 9450  terraform init
+ 9451  terraform fmt --diff
+ 9452  terraform validate
+ 9453  terraform pla
+ 9454  terraform plan
+ 9455  terraform apply
+ 9456  terraform destroy
+ 9460  terraform init
+ 9461  terraform fmt --diff
+ 9462  terraform plan
+ 9465  terraform plan
+ 9466  terraform fmt
+ 9467  terraform apply
+ 9468  terraform destroy
+ 9469  terraform validate
+ 9470  terraform plan
+ 9471  terraform apply
+ 9472  terraform destroy
+ 9473  terraform apply
+ 9474  terraform validate
+ 9475  terraform fmt
+ 9476  terraform fmt --diff
+ 9477  terraform plan
+ 9478  terraform apply
+ 9479  terraform destroy
+ 9480  terraform apply
+ 9481  terraform destroy
+ 9482  terraform apply
+ 9483  terraform show
+ 9484  terraform destroy
+ 9822  terraform import digitalocean_app.myapp b54daf72-f9fb-41b4-b2e4-68cb76f3600c
+ 9823  terraform plan
+ 9824  terraform validate
+ 9825  terraform plan
+ 9826  terraform show
+ 9827  terraform diff
+ 9828  terraform import digitalocean_database_cluster.mycluster 501ed00a-d017-4f80-9903-906364424003
+ 9829  terraform import digitalocean_app.myapp b54daf72-f9fb-41b4-b2e4-68cb76f3600c
+ 9830  terraform show
+ 9831  terraform init
+ 9832  terraform import digitalocean_app.myapp b54daf72-f9fb-41b4-b2e4-68cb76f3600c
+ 9833  terraform show
+ 9834  terraform import digitalocean_database_cluster.mycluster 501ed00a-d017-4f80-9903-906364424003
+ 9835  terraform show
+ 9836  terraform import digitalocean_database_firewall.example-fw 501ed00a-d017-4f80-9903-906364424003
+ 9837  terraform show
+ 9838  terraform init
+ 9839  terraform fmt
+ 9840  terraform validate
+ 9841  terraform plan
+ 9842  terraform apply
+ 9843  terraform show
+ 9844  terraform validate
+ 9846  terraform validate
+ 9847  terraform fmt
+ 9848  terraform plan
+ 9849  terraform apply
+ 9850  terraform destroy
+10005  cd terraform
